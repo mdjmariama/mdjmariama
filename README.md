@@ -1,16 +1,14 @@
-## Hi there 👋
+# MOINDJIE Mariama
 
-<!--
-**mdjmariama/mdjmariama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en Bachelor IT | Passionnée par la cybersécurité
 
-Here are some ideas to get you started:
+Je suis une étudiante motivée dans le domaine des technologies de l'information, plus précisement dans la cybersécurité. Actuellement en Bachelor IT, Je cherche à développer mes compétences dans la protection des systèmes et la gestion des infrastructures informatiques.
+Toujours en quête de nouvelles compétences et de projets innovants !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Compétences techniques
+
+- **Langages** : HTML, CSS  
+- **Virtualisation** : VMware  
+- **Outils de développement** : Visual Studio Code (VS Code)
